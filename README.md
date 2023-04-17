@@ -4,4 +4,6 @@ Assignment 5, challenge 1: Using the class command I create a Bubble object. Ins
 Link to assignment: https://editor.p5js.org/hopecarroll/sketches/vheyI16dr
 
 Assignment 5, challenge 2: After duplicating my previous sketch, I deleted the individual bubble varibles and in it's place added a bubble array. I then deleted the places that I indvidually called the former variables and added loops. This array and loops allowed me to be able to change the number of bubbles in the sketch by only changing the number in the first loop. I also assigned the random variable to the x,y and r of the ellipse so each bubbles starts in a different postion and has a different radius. 
-Linke to assignment: https://editor.p5js.org/hopecarroll/sketches/Rxy09amfP
+Link to assignment: https://editor.p5js.org/hopecarroll/sketches/Rxy09amfP
+
+Assignment 5, challenge 3: For this assignment we were tasked with creating a simulation that has breeders, catchers and a background. The breeders are the stick figures, the catchers are the aliens and the background is the stars. 
