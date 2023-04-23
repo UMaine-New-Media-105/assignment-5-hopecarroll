@@ -11,3 +11,6 @@ Link to sketch: https://editor.p5js.org/hopecarroll/sketches/jcaBMlQfz
 
 Assignment 5, challenge 4: For this assingment we were tasked to have the breeders create another, in this case, stick figure when the stick figures  collide with one another. This is done by using the "dist" command that detects when the stick figure collide with one another. In order for the stick figures to unreasonably multipy and crash the game, two global varibles were also created to space out the time in between the spawning of the stick figures. I also created an "isTouching" function to define spriteDistance. I also created another for loop for "matesChecked" which is called in the varible defined as "proposedMate" this variable is used in the dist command and allows for the creation of new stick people. 
 Link to sketch: https://editor.p5js.org/hopecarroll/sketches/GfyJ9ZlMN
+
+Assignment 5, challenge 5: For the final part of the sim game, the catchers eat the breeders when they pass them. This is done by using splice and getting rid of the breeders when the catchers collide with them. I also used splice to get rid of the aliens when they don't get enough breeders to eat. This creates a balance within the sim game. The catchers health is defined by a global variable starting at 900. 
+Link to assigment: https://editor.p5js.org/hopecarroll/sketches/qfdy59QNf
